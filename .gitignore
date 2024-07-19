@@ -1,0 +1,4 @@
+/application-01/node_modules
+/application-01/.vscode
+/application-01/.gitignore
+/application-01/src-tauri/.gitignore

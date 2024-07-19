@@ -1,2 +1,5 @@
-# tauri-rust-desktop
-rust-desktop-tauri-application
+# This repo contain desktop application
+    -React/Next
+    -Tauri
+    -Postgresql/sqlite
+    -Rust
